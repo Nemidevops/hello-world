@@ -3,6 +3,7 @@
     <h1>New user Register for DevOps Learning</h1>
     <h1>Neminathan is Devops Enginner</h1>
     <h2>He is from chennai</h2>
+    <h3>target is 20LPA</h3>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
