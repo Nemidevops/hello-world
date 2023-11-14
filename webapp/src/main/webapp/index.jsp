@@ -4,7 +4,7 @@
     <h1>Neminathan is Devops Enginner</h1>
     <h2>He is from chennai</h2>
     <h3>target is 20LPA</h3>
-    <h1>complete all the tech before 2024 april and search job</h1>
+    <h1>complete all the tech before 2024 april and search jobs</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
