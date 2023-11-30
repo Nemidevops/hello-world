@@ -4,6 +4,9 @@
     <h1>Neminathan is Devops Enginner </h1>
   
     <hr>
+    <label for="Name"><b>Enter Father Name</b></label>
+    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+    <br>    
      
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
